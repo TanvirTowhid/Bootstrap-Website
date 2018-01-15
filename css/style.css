@@ -1,0 +1,70 @@
+.navbar-default {
+    background-color: #584384;
+    border-color: #584384;
+}
+.navbar-brand {
+	height: auto;
+}
+.navbar {
+	border-radius: 0;
+	margin-bottom: 0;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.nav>li>a {
+	padding: 30px 20px;
+	font-size: 18px;
+}
+#slider .carousel-caption {
+	bottom: 40%;
+}
+#slider .carousel-caption h2 {
+	text-transform: uppercase;
+	font-weight: bold;
+}
+#slider .carousel-caption .btn-default {
+    color: #fff;
+    background-color: #584384;
+    border: 2px solid #fff;
+    text-transform: uppercase;
+}
+#use {
+	padding: 50px 0;
+}
+#use h2 {
+	text-transform: capitalize;
+	color: #000;
+	margin: 30px 0;
+}
+#bootstrap {
+	padding: 50px 0;
+}
+#sass {
+	padding-bottom: 50px;
+}
+#collapse {
+	padding-bottom: 50px;
+}
+#collapse a {
+	text-decoration: none;
+	font-size: 20px;
+}
+.panel-body {
+	padding-left: 0;
+}
+footer {
+	padding: 50px 0;
+	background-color: #584384;
+	color: #fff;
+}
+footer h3 {
+	padding: 25px 0;
+	font-weight: bold;
+}
+footer p {
+	font-weight: bold;
+}
+footer i {
+	padding: 0 15px;
+}
